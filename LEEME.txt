@@ -1,0 +1,11 @@
+No he realizado diagramas de clases sobre el servidor y la web puesto que son los que usted nos dio.
+En el servidor he tenido que hacer cambios en algunas URL a las que se conectaba, por ejemplo la de la clase BD,
+que tuve que ponerle unos parámetros para que no tuviera en cuenta la zona horaria, ya que por alguna razon eso me
+impedía realizar la conexión.
+
+Las contraseñas no se cifran, para identificarse puede registrarse desde la app o la web o usar el siguiente usuario:
+nombre: email
+contraseña: password
+
+Es posible que deba generar una nueva clave para usar Maps en la aplicación android, pues he probado a importarlo en otro
+ordenador y tuve que hacerlo ya que la clave se genera en función del proyecto
